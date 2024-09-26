@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Fox"
+  given-names: "Andrea"
+  orcid: "https://orcid.org/0009-0003-8629-6470"
+- family-names: "De Pellegrini"
+  given-names: "Francesco"
+  orcid: "https://orcid.org/0000-0002-1370-9401"
+- family-names: "Faticanti"
+  given-names: "Francescomaria"
+  orcid: "https://orcid.org/0000-0002-3075-313X"
+- family-names: "Altman"
+  given-names: "Eitan"
+  orcid: "https://orcid.org/0000-0002-2177-9979"
+- family-names: "Bronzino"
+  given-names: "Francesco"
+  orcid: "https://orcid.org/0000-0003-4447-960X"
+title: "DecomposedRCPO"
+doi: 
+date-released: 2024-09-26
+url: "https://github.com/Andrea-Fox/DecomposedRCPO"
